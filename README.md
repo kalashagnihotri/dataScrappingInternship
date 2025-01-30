@@ -37,3 +37,11 @@ This project is a web scraper for Amazon products using Selenium and BeautifulSo
 2. The scraped data will be saved to `amazon_products.csv`.
 
 ## Project Structure
+
+- [main.py](http://_vscodecontentref_/1): The main script that performs the web scraping.
+- [README.md](http://_vscodecontentref_/2): This file.
+- [.gitignore](http://_vscodecontentref_/3): Specifies files to be ignored by Git.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
